@@ -1,6 +1,6 @@
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "https://fernandobarrz.github.io/react-frontend-dev-portfolio/",
+  "name": "react-dev-portfolio",
+  "homepage": "https://fernandobarrz.github.io/react-dev-portfolio/",
   "version": "0.2.0",
   "private": true,
   "dependencies": {
